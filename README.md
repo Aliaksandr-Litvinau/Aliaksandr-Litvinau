@@ -1,5 +1,4 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%125b37CF7&lines=Howdy,+my+friends!+👋+ )](https://git.io/typing-svg)
-
 - 🔭 I’m currently working on MongodbTech.
 - 🌱 I’m currently learning 🐍Python.
 - 📲 Contact me with telegram @LitvinauAlex or email litvinaualex@gmail.com.
