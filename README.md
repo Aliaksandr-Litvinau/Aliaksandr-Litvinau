@@ -8,5 +8,5 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I like to watch cartoons with my daughter.
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+[GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+[GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
