@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%125b37CF7&lines=Howdy,+my+friends!+👋+ )](https://git.io/typing-svg)
-- 🔭 I’m currently working on AlignedCode.
+- 🔭 I’m currently working on Ingenios.
 - 🌱 I’m currently learning 🐍Python.
 - 📲 Contact me with telegram @LitvinauAlex or email litvinaualex@gmail.com.
 - 👯 I’m looking to collaborate on LinkedIn https://www.linkedin.com/in/aliaksandr-litvinau/.
