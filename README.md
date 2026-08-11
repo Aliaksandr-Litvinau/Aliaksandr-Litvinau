@@ -65,22 +65,19 @@ func main() {
 
 ## 🚀 Featured Project
 
+### 🎵 [songs](https://github.com/Aliaksandr-Litvinau/songs) — RESTful Music Library API
+
+> Clean Architecture in action: domain / use case / adapter / infrastructure layers,
+> CRUD + advanced filtering with pagination, verse-level lyrics pagination,
+> Prometheus metrics and Swagger docs out of the box.
+
+`Go` · `Gin` · `PostgreSQL` · `Docker` · `golang-migrate` · `Prometheus` · `Swagger`
+
+## 📊 GitHub Streak
+
 <div align="center">
 
-[![Songs API](https://github-readme-stats.vercel.app/api/pin/?username=Aliaksandr-Litvinau&repo=songs&title_color=00ADD8&icon_color=00ADD8&hide_border=true&bg_color=00000000)](https://github.com/Aliaksandr-Litvinau/songs)
-
-*RESTful music library API — Go, Gin, PostgreSQL, Clean Architecture, Prometheus, Swagger*
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aliaksandr-Litvinau&show_icons=true&title_color=00ADD8&icon_color=00ADD8&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaksandr-Litvinau&layout=compact&langs_count=6&hide=python,html,css,jupyter%20notebook,dockerfile,makefile,shell&title_color=00ADD8&hide_border=true&bg_color=00000000" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Aliaksandr-Litvinau&hide_border=true&background=00000000&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Aliaksandr-Litvinau&mode=daily&hide_border=true&background=00000000&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub streak"/>
 
 </div>
 
