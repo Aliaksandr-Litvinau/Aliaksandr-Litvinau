@@ -77,7 +77,7 @@ func main() {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aliaksandr-Litvinau&mode=daily&hide_border=true&background=00000000&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Aliaksandr-Litvinau&mode=daily&hide_border=true&background=00000000&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&currStreakNum=00ADD8&sideNums=00ADD8&sideLabels=8B949E&dates=8B949E" alt="GitHub streak"/>
 
 </div>
 
